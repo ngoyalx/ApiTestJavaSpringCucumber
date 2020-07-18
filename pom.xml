@@ -70,12 +70,6 @@
             <artifactId>jjwt</artifactId>
             <version>0.9.1</version>
         </dependency>
-
-        <dependency>
-            <groupId>com.emirates</groupId>
-            <artifactId>test-data-builders</artifactId>
-            <version>1.9</version>
-        </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
